@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: User Story fir final project
+about: User Story for final project
 title: ''
 labels: ''
 assignees: ''
